@@ -1,3 +1,10 @@
+// Time Complexity :  O(1)
+// Space Complexity : O(1)
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this :
+// line 9 failing on edge case
+// speed was a bit slow changed Array<Array<Boolean>?> to Array<BooleanArray?>
+
 class MyHashSet {
 
     private val bucketSize: Int = 1000

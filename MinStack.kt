@@ -1,3 +1,12 @@
+// Time Complexity :  O(1)
+// Space Complexity : O(1)
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this :
+// line 13 <= check
+// min and getMin was also conflicting for kotlin changed to minV
+// line number 21 and then 31 correct value to be pushed
+
+
 import java.util.*
 
 class MinStack() {
